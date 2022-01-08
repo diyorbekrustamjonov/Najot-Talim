@@ -9,9 +9,9 @@
         ""
       ],
       "stopAtEntry": false,
-      "cwd": "c:/Users/bdvha/Рабочий стол/Najot talim/Foundation/1. C/1 - dars",
+      "cwd": "C:/MinGw/bin",
       "environment": [],
-      "program": "c:/Users/bdvha/Рабочий стол/Najot talim/Foundation/1. C/1 - dars/build/Debug/outDebug",
+      "program": "c:/Users/bdvha/Рабочий стол/Najot talim/Foundation/1. C/2 - dars/build/Debug/outDebug",
       "internalConsoleOptions": "openOnSessionStart",
       "MIMode": "gdb",
       "miDebuggerPath": "C:/MinGW/bin/gdb.exe",

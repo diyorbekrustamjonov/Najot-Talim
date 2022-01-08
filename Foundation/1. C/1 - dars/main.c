@@ -89,7 +89,7 @@ int main(){//main asosiy funksiyasi
     printf("32BIT MAX value: %d; \n", intMaxnum); 
 
     //int oziga maksimal 8BYTE sigdira oladi, 8BYTE => 64BIT ga teng => 64BIT => 2147483647 shu songa teng
-    long int longIntMaxNum = 9223372036854775807; //8BYTE => 64BIT
+    long int longIntMaxNum = 922; //8BYTE => 64BIT
     printf("64BIT MAX value: %ld; \n", longIntMaxNum); //ld => LONG DECIMAL
 
     //float bu qoldiq son deyiladi
@@ -101,6 +101,5 @@ int main(){//main asosiy funksiyasi
     //double bu kata 8bit li qoldiq sonni chiqarib beradi
     double kattaQoldiqSon = 13123131231.2;
     printf("Katta qoldiq son: %lf", kattaQoldiqSon);//%lf => LONG FLOAT 
-
     return 0; //Bu kodlar orqali programma chiqarish uchun ishlatiliniladi
 }
